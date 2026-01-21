@@ -1,0 +1,180 @@
+> Task :nms:nms-v1_13_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_12_R1:processResources NO-SOURCE
+> Task :nms:nms-common:processResources NO-SOURCE
+> Task :nms:nms-v1_11_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_14_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_10_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_13_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_16_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_16_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_16_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_15_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_17_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_19_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_18_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_18_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_19_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_19_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R4:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R1:processResources NO-SOURCE
+> Task :shared:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R4:processResources NO-SOURCE
+> Task :shared:processResources NO-SOURCE
+> Task :shared:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R6:processResources NO-SOURCE
+> Task :nms:nms-paper_v1_21_R7:paperweightUserdevSetup UP-TO-DATE
+> Task :nms:nms-v1_21_R7:processResources NO-SOURCE
+> Task :shared:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R5:processResources NO-SOURCE
+> Task :nms:nms-v1_8_R2:processResources NO-SOURCE
+> Task :nms:nms-paper_v1_21_R7:processResources NO-SOURCE
+> Task :nms:nms-v1_8_R3:processResources NO-SOURCE
+> Task :nms:nms-common:compileJava UP-TO-DATE
+> Task :nms:nms-v1_8_R1:processResources NO-SOURCE
+> Task :nms:nms-common:classes UP-TO-DATE
+> Task :nms:nms-v1_9_R1:processResources NO-SOURCE
+> Task :nms:processResources NO-SOURCE
+> Task :nms:nms-v1_9_R2:processResources NO-SOURCE
+> Task :nms:nms-common:jar UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R6:paperweightUserdevSetup UP-TO-DATE
+> Task :nms:nms-v1_13_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_13_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_12_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_12_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_13_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_12_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_11_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_11_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_13_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_13_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_11_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_13_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_16_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_16_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_16_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_15_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_10_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_14_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_15_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_14_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_10_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_15_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_14_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_10_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_17_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_17_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_17_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_16_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_16_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_18_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_18_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_19_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_18_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_18_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_19_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_18_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_19_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_19_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_18_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R4:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R4:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_20_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_20_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R4:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_20_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_8_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_8_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_8_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_8_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_8_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_8_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_8_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_8_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_9_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R5:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R5:classes UP-TO-DATE
+> Task :nms:nms-v1_9_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R4:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R7:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R7:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R4:classes UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R6:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R6:compileJava UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R6:processResources NO-SOURCE
+> Task :nms:nms-paper_v1_21_R6:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R7:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R6:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R4:jar UP-TO-DATE
+> Task :nms:nms-v1_8_R3:jar UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R7:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R6:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R5:jar UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R7:classes UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R6:jar UP-TO-DATE
+> Task :nms:nms-v1_9_R2:compileJava UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R7:jar UP-TO-DATE
+> Task :nms:nms-v1_9_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_9_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_9_R2:jar UP-TO-DATE
+> Task :nms:compileJava NO-SOURCE
+> Task :nms:classes UP-TO-DATE
+> Task :nms:jar UP-TO-DATE
+> Task :plugin:compileJava FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':plugin:compileJava'.
+> Could not resolve all files for configuration ':plugin:compileClasspath'.
+   > Could not find dev.folia:folia-api:1.20.1-R0.1-SNAPSHOT.
+     Searched in the following locations:
+       - https://repo.maven.apache.org/maven2/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/maven-metadata.xml
+       - https://repo.maven.apache.org/maven2/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/folia-api-1.20.1-R0.1-SNAPSHOT.pom
+       - https://repo.codemc.io/repository/nms/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/maven-metadata.xml
+       - https://repo.codemc.io/repository/nms/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/folia-api-1.20.1-R0.1-SNAPSHOT.pom
+       - https://oss.sonatype.org/content/repositories/snapshots/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/maven-metadata.xml
+       - https://oss.sonatype.org/content/repositories/snapshots/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/folia-api-1.20.1-R0.1-SNAPSHOT.pom
+       - https://repo.codemc.io/repository/maven-public/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/maven-metadata.xml
+       - https://repo.codemc.io/repository/maven-public/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/folia-api-1.20.1-R0.1-SNAPSHOT.pom
+       - https://repo.extendedclip.com/content/repositories/placeholderapi/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/maven-metadata.xml
+       - https://repo.extendedclip.com/content/repositories/placeholderapi/dev/folia/folia-api/1.20.1-R0.1-SNAPSHOT/folia-api-1.20.1-R0.1-SNAPSHOT.pom
+     Required by:
+         project :plugin
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 12s
+76 actionable tasks: 1 executed, 75 up-to-date

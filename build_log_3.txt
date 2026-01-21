@@ -1,0 +1,170 @@
+> Task :nms:nms-v1_10_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_11_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_12_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_13_R2:processResources NO-SOURCE
+> Task :nms:nms-common:processResources NO-SOURCE
+> Task :nms:nms-v1_13_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_16_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_15_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_14_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_18_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_16_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_18_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_17_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_19_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_19_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_19_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_20_R4:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R4:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R5:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R6:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_21_R7:processResources NO-SOURCE
+> Task :nms:nms-v1_8_R3:processResources NO-SOURCE
+> Task :nms:nms-v1_9_R1:processResources NO-SOURCE
+> Task :nms:nms-v1_8_R2:processResources NO-SOURCE
+> Task :shared:compileJava UP-TO-DATE
+> Task :nms:nms-v1_9_R2:processResources NO-SOURCE
+> Task :nms:nms-v1_8_R1:processResources NO-SOURCE
+> Task :shared:processResources NO-SOURCE
+> Task :shared:classes UP-TO-DATE
+> Task :nms:processResources NO-SOURCE
+> Task :nms:nms-v1_16_R2:processResources NO-SOURCE
+> Task :shared:jar UP-TO-DATE
+> Task :nms:nms-common:compileJava UP-TO-DATE
+> Task :nms:nms-common:classes UP-TO-DATE
+> Task :nms:nms-common:jar UP-TO-DATE
+> Task :nms:nms-v1_13_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_13_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_13_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_13_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_13_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_13_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_12_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_12_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_10_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_10_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_12_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_10_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_14_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_14_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_11_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_11_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_14_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_15_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_15_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_11_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_16_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_15_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_16_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_16_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_16_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_16_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_16_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_17_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_17_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_17_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_18_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_18_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_19_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_18_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_19_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_18_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_18_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_19_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_18_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_19_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_19_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_19_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_20_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R4:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R4:classes UP-TO-DATE
+> Task :nms:nms-v1_20_R4:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_20_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_20_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_20_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_20_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_8_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_8_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_8_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_8_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_8_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_8_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_8_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_8_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_8_R3:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R4:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R4:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R6:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R4:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R6:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R5:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R5:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R6:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R3:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R3:classes UP-TO-DATE
+> Task :nms:nms-v1_9_R1:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R7:compileJava UP-TO-DATE
+> Task :nms:nms-v1_9_R2:compileJava UP-TO-DATE
+> Task :nms:nms-v1_21_R7:classes UP-TO-DATE
+> Task :nms:nms-v1_9_R1:classes UP-TO-DATE
+> Task :nms:nms-v1_9_R2:classes UP-TO-DATE
+> Task :nms:nms-v1_21_R5:jar UP-TO-DATE
+> Task :nms:nms-v1_9_R1:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R7:jar UP-TO-DATE
+> Task :nms:nms-v1_9_R2:jar UP-TO-DATE
+> Task :nms:nms-v1_21_R3:jar UP-TO-DATE
+
+> Task :nms:nms-paper_v1_21_R7:paperweightUserdevSetup
+Skipping applyDevBundlePatches (up-to-date)
+Completed setup in 960ms
+Copied artifacts to project cache in 89ms
+
+> Task :nms:nms-paper_v1_21_R6:paperweightUserdevSetup
+Skipping applyDevBundlePatches (up-to-date)
+Completed setup in 987ms
+Copied artifacts to project cache in 69ms
+
+> Task :nms:nms-paper_v1_21_R6:compileJava UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R7:compileJava UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R6:processResources NO-SOURCE
+> Task :nms:nms-paper_v1_21_R7:processResources NO-SOURCE
+> Task :nms:nms-paper_v1_21_R6:classes UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R7:classes UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R7:jar UP-TO-DATE
+> Task :nms:nms-paper_v1_21_R6:jar UP-TO-DATE
+> Task :nms:compileJava NO-SOURCE
+> Task :nms:classes UP-TO-DATE
+> Task :nms:jar UP-TO-DATE
+
+> Task :plugin:compileJava
+Some input files use or override a deprecated API.
+Recompile with -Xlint:deprecation for details.
+Some input files use unchecked or unsafe operations.
+Recompile with -Xlint:unchecked for details.
+
+[Incubating] Problems report is available at: file:///D:/Project/DecentHolograms-Folia/build/reports/problems/problems-report.html
+
+BUILD SUCCESSFUL in 12s
+76 actionable tasks: 3 executed, 73 up-to-date
